@@ -4,7 +4,7 @@
 
 ## Link to the Tableau Story
 
-https://public.tableau.com/profile/jake.neyer#!/vizhome/TitanicSurvivalVersion2/TitanicStory?publish=yes
+https://public.tableau.com/profile/jake.neyer#!/vizhome/TitanicSurvivalVersion3/TitanicStory?publish=yes
 
 ## Synopsis
 During its maiden voyage, disaster struck the RMS Titanic. On April 15, 1912 the ship collided with an iceberg in the Northern Atlantic Ocean. According to the estimates, there were 2,224 passengers and crew aboard the vessel. Of those 2,224 individuals more than 1,500 died. My goal is to better understand which factors led to the survival or death of the people involved in this historic tragedy.
